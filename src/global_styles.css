@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+*, *::after, *::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+}
